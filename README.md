@@ -1,5 +1,5 @@
 # WordAnalysis
-Десктопное приложение Python под Windows для анализа word документов. 
+Десктопное приложение под Windows для анализа word документов. 
 
 Пользователь загружает файл .doc, приложение исправляет пунктуацию и орфографию, исправляет оформление в соответствии с заранее заданными настройками. 
 
@@ -15,6 +15,7 @@
 
 * Yandex спеллер (https://yandex.ru/dev/speller/).
 * SbertPuncCase (https://huggingface.co/kontur-ai/sbert_punc_case_ru).
+* Python 3.11.5
 
 Для использования SbertPuncCase необходимо:
 1. установить git-lfs командой `pip install git-lfs`;
