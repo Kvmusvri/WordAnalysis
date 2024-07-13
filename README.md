@@ -11,7 +11,7 @@
 * Подпункт - Heading 4
 * Обычный - Normal
 
-# Использованные технологии
+## Использованные технологии
 
 * Yandex спеллер (https://yandex.ru/dev/speller/).
 * SbertPuncCase (https://huggingface.co/kontur-ai/sbert_punc_case_ru).
@@ -20,7 +20,7 @@
 1. установить git-lfs командой `pip install git-lfs`;
 2. установить модель командой `pip install git+https://huggingface.co/kontur-ai/sbert_punc_case_ru`. 
 
-# Использованные библиотеки
+## Использованные библиотеки
 |Lib|Version|
 |---|-------|
 |transformers|4.42.4|
